@@ -1,0 +1,42 @@
+{
+    "patients":[
+        {
+            "id":0,
+            "name":"sai",
+            "email":"Akshit@gmail.com",
+            "phone": 1234567890
+        },
+        {
+            "id":1,
+            "name":"Akshit",
+            "email":"Akshit@gmail.com",
+            "phone": 1234567891
+        },
+      
+      {
+          "id":2,
+          "name":"Nikita",
+          "email":"Nikita@gmail.com",
+          "phone": 1234567892
+      },
+      
+      {
+          "id":3,
+          "name":"Deeksha",
+          "email":"Deeksha@gmail.com","phone": 1234567894
+      },
+      
+      {
+          "id":4,
+          "name":"Ritesh","email":"Ritesh@gmail.com",
+          "phone": 1234567895
+      },
+      
+      {
+          "id":5,
+          "name":"Somya",
+          "email":"Somya@gmail.com",
+          "phone": 1234567896
+      }
+  ]
+  }
